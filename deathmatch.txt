@@ -1,0 +1,21 @@
+"Gamemode"
+{
+	"base"			"base"
+	"title"			"Deathmatch"
+	"maps"			"ex_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"seetings"
+	{
+		1
+		{
+			"name"	 "ex_test"
+			"text"	"Test"
+			"help"  "stuff i guess"
+			"type"	"numeric"
+			"default"	"1"
+
+		}
+	}
+}
